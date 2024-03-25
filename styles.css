@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-*{
+/* *{
 	margin:0;
 	padding:0;
 	box-sizing:content-box;
-}
+} */
 div{
-	wdth:300px;
+	width:300px;
 	border:15px solid blue;
 	background-color:lightblue;
 	padding:50px;
